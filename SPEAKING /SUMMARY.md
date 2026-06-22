@@ -328,6 +328,16 @@ See [`examples/`](examples/README.md):
 - **24 Simon topics** — each file has all matching Part 1, 2, and 3 questions from every PDF
 - **[by-source/](examples/by-source/README.md)** — complete unfiltered dumps per PDF (NgocBach Q1/Q2/Q3 2022–2024, IELTS Fighter lessons)
 
+## Vocabulary
+
+See [`vocabulary/`](vocabulary/README.md) — vocabulary, collocations, and phrases from all **10 IELTS Fighter lessons** + **IELTS Simon** source.
+
+| File | Content |
+|------|---------|
+| `fighter-lesson-01.md` … `fighter-lesson-10.md` | Per-lesson vocab tables (English, CEFR, phonetics, Vietnamese) |
+| `simon-ideas-for-ielts-topics.md` | Key phrases by topic (24 themes) |
+| `all-vocabulary.md` | Combined quick reference |
+
 ---
 
 *Generated from IELTS Fighter (Fighter 5) lesson materials and IELTS Simon topic ideas.*

@@ -1,343 +1,469 @@
-# IELTS Speaking — Summary
+# IELTS Speaking — Tips & Tricks for Band 7+
 
-Materials from **IELTS Fighter (Fighter 5)** speaking lessons and **IELTS Simon — Ideas for IELTS Topics (Band 6.5–9.0)**.
-
----
-
-## IELTS Speaking test structure
-
-| Part | Duration | Format |
-|------|----------|--------|
-| **Part 1** | 4–5 min | Short Wh-questions about familiar topics (home, work, hobbies, etc.) |
-| **Part 2** | 3–4 min | 1-min preparation + 1–2 min monologue on a cue card |
-| **Part 3** | 4–5 min | Two-way discussion — deeper questions linked to Part 2 topic |
+> A practical guide from **IELTS Fighter (Fighter 5)** lessons + **IELTS Simon — Ideas for IELTS Topics (Band 6.5–9.0)**.
+> Use with [examples](examples/README.md) and [vocabulary](vocabulary/22_06_2026.md).
 
 ---
 
-## Lesson Summaries (IELTS Fighter)
+## How IELTS Speaking is scored
 
-### Lesson 1 — Review Technique: Wh-questions (Part 1)
+Examiners mark you on **four criteria** (each 25%). To reach Band 7+, you need to show all four consistently — not just good vocabulary.
 
-**Focus:** Answering Part 1 questions clearly and naturally.
+| Criterion | Band 7+ means… | Top trick |
+|-----------|----------------|-----------|
+| **Fluency & Coherence** | Speak at length without unnatural pauses; ideas flow logically | Use frameworks (EPACT, ARERC) so you never run out of structure |
+| **Lexical Resource** | Less common words + natural collocations; paraphrase well | Learn **chunks** (collocations), not isolated words |
+| **Grammatical Range & Accuracy** | Mix simple + complex sentences; few errors that block meaning | Add one complex structure per answer (conditional, relative clause) |
+| **Pronunciation** | Easy to understand; natural stress & intonation | Stress **content words**; don't speak in a flat monotone |
 
-**Key vocabulary themes**
-- **Describing people:** haircut, dye, gifted, innate, nickname, aspiration, amnesia, recall, reminisce
-- **Personality & habits:** procrastinator, get distracted, well-known, trendsetter
-- **Daily life & feelings:** desire, fulfill, repetitive, meaningful, contentment, morale, anticipation, boredom, tedious, monotonous
-
-**Useful collocations**
-- `get a haircut`, `dye one's hair`, `hone one's skill`, `a natural at something`
-- `stick in one's mind`, `immerse oneself in`, `show off one's status`
-- `make one's day`, `bring someone immense joy`, `retail therapy`, `bored to death/tears`
-
-**Strategy:** Framework for structuring Wh-question answers (vocabulary + collocations by topic).
+**Golden rule:** The examiner cares more about **natural, extended answers** than perfect grammar. A confident 30-second answer beats a nervous 10-second one.
 
 ---
 
-### Lesson 2 — Review Techniques (Part 1)
+## Test structure — what to expect
 
-**Focus:** Topic-based vocabulary and answer frameworks for common Part 1 themes.
+| Part | Time | What happens | Your goal |
+|------|------|--------------|-----------|
+| **Part 1** | 4–5 min | Short questions about you (home, work, hobbies) | Sound natural; extend every answer to 2–4 sentences |
+| **Part 2** | 3–4 min | 1 min prep + 1–2 min monologue on cue card | Hit **all bullet points**; speak for the full 2 minutes |
+| **Part 3** | 4–5 min | Abstract discussion linked to Part 2 topic | Give **opinion + reason + example** every time |
 
-**Topic 1: Technology & Entertainment**
-- **Vocab:** notification, platform, delusion, scam, binge watching, interface, layout, sedentary, sensational, ubiquitous, impulsive, computer-literate, graphic, portable, endorse, navigate, retouch
-- **Collocations:** `keep abreast of the news`, `get on one's nerves`, `delusion life`, `targeted audience`, `take over the throne`, `meet entertainment needs`, `at one's own pace`, `be drawn to`, `impulsive decision`, `communication medium`, `workplace communication`, `messaging platform`, `online movie streaming platform`, `come in handy`, `can't go a day without`, `have a heavy influence on`, `broaden one's horizon`, `snap photos`
-
-**Topic 2: Transportation**
-- **Vocab:** hassle, intensity, congestion, means, flexibility, fuel-efficient, mindful, herculean, mesmerizing
-- **Collocations:** `mass transit`, `save someone from the hassle of`, `ease the intensity of`, `traffic congestion`, `carbon footprint`, `a herculean task`
-
-**Technique: EPACT** — structure answers using:
-- **E**xample
-- **P**opularity
-- **A**dvantage
-- **C**ost
-- **T**ime
+**Trick:** Parts 1 → 2 → 3 get progressively harder. Warm up in Part 1; peak performance in Part 3.
 
 ---
 
-### Lesson 3 — Part 2: Review People (Monologue)
+## Part 1 — Tricks for top scores
 
-**Focus:** Describing a person (common Part 2 cue card type).
+### The #1 mistake
+Giving one-word or one-sentence answers. *"Do you like reading?" → "Yes."* = Band 4–5.
 
-**Typical structure:** Introduction → Story (who / when / where / relationship) → Description (appearance, personality, habits) → Opinion (feelings, influence, admiration).
+**Fix:** Always add **why**, **how often**, or **a quick example**.
 
-*Note: This lesson is mostly image-based in the PDF; refer to the original file for full outlines and sample answers.*
+### EPACT framework (from Lesson 2)
 
----
+Use when asked about habits, preferences, technology, transport, etc.
 
-### Lesson 4 — Part 2: Review Places
+| Step | What to say | Example (Do you use social media?) |
+|------|-------------|-------------------------------------|
+| **E**xample | A specific case from your life | *For example, I mainly use Instagram to keep up with friends abroad.* |
+| **P**opularity | How common it is | *It's pretty ubiquitous these days — almost everyone I know is on at least one platform.* |
+| **A**dvantage | A positive | *The main advantage is that it helps me stay connected without expensive phone calls.* |
+| **C**ost | A downside / price | *On the flip side, it can be a huge time-waster if you're not careful.* |
+| **T**ime | Past / present / future | *I used to scroll for hours, but lately I've been trying to limit it to 30 minutes a day.* |
 
-**Focus:** Describing a place (city, restaurant, building, natural site, etc.).
+You don't need all 5 every time — pick 2–3 that fit the question.
 
-**Key collocations**
-- `a panoramic view of`, `once in a lifetime experience`, `a genuine foodie`
-- `in the proximity to`, `delectable cuisines`, `a sleepy place`
-- `satisfy one's craving for`, `snag a table`
-- `to die for`, `packed like sardines`, `first come, first served`
-- `serve as a reminder of`, `be in the mood for doing something`, `all walks of life`
+### Wh-question tricks (Lesson 1)
 
-**Typical structure:** Introduction → Story (where / when / how you found it) → Description (atmosphere, features, activities) → Opinion (feelings, recommendation).
+| Question type | Trick | Starter phrase |
+|---------------|-------|----------------|
+| **What / Which** | Name + describe + opinion | *The first thing that springs to mind is…* |
+| **Who** | Relationship + personality + influence | *I'd like to talk about my… who is…* |
+| **When** | Specific time + context + feeling | *If memory serves me correctly, it was back in…* |
+| **Where** | Place + atmosphere + activity | *It's a place called… which is located…* |
+| **Why** | Reason + example + result | *The main reason is that… For instance…* |
+| **How often** | Frequency + routine + feeling | *I'd say I do it… It has become part of my routine.* |
 
----
+### Part 1 power phrases
 
-### Lesson 5 — Part 2: Review Things
+- *That's a tricky question — let me think…*
+- *It really depends on the situation, but generally speaking…*
+- *I wouldn't go so far as to say…, but I do think…*
+- *Off the top of my head, I'd say…*
+- *To be perfectly honest…*
 
-**Focus:** Describing objects — physical items and abstract/concept items (books, films, websites).
+### Part 1 topics — quick vocab (Lessons 1–2)
 
-**Key vocabulary**
-- **Media & objects:** genre, tension, blockbuster, addictive, plot, bookworm, protagonist, portable, antique, eye-catching, state-of-the-art, innovative, practical, informative, beneficial, perspective
+**People & daily life:** haircut, gifted, innate, procrastinator, get distracted, contentment, mundane, tedious, boredom
 
-**Key collocations**
-- `skim through something`, `adapted from`, `catch the latest movie`, `catch one's attention`
-- `from cover to cover`, `catch one's eye`, `a waste of money`, `hand something down`, `pick something up`, `come across something`
+**Technology:** binge watching, ubiquitous, impulsive, interface, sedentary, `keep abreast of the news`, `come in handy`, `can't go a day without`
 
-#### Physical Object Outline
-
-| Section | What to cover |
-|---------|---------------|
-| **Introduction** | Name the object; why you're describing it |
-| **Story — Where** | How you got it (gift, purchase, found it) |
-| **Story — How** | Design, material, appearance, special features |
-| **Opinion — Feelings** | Emotional value, gratitude, comfort |
-| **Opinion — Personal** | Sentimental value, worth every penny, summary |
-
-**Sample intro phrases**
-- *I'm going to describe my all-time favorite… which was…*
-- *When it comes to…, I'd like to bring up…*
-- *… comes/springs to my mind when asked about…*
-
-#### Concept Object Outline (books / films / websites)
-
-| Section | What to cover |
-|---------|---------------|
-| **Introduction** | Your interest in books/movies; name the item |
-| **Story — Background** | How you discovered it; author/director; context |
-| **Story — How** | Plot, themes, what it involves |
-| **Opinion — Emotional** | Why it resonates; special place in your heart |
-| **Opinion — Lesson** | What you learned (empathy, pursuing dreams) |
-| **Opinion — Storytelling** | Captivating narrative, creative execution |
+**Transport:** congestion, carbon footprint, fuel-efficient, `mass transit`, `ease the intensity of`, `a herculean task`
 
 ---
 
-### Lesson 6 — Part 2: Review Past Events & Activities
+## Part 2 — Tricks for top scores
 
-**Focus:** Describing a past event, experience, or memorable activity.
+### The #1 mistake
+Stopping after 60 seconds or missing bullet points on the cue card.
 
-**Key collocations**
-- `fact checking`, `resemblance`, `compensate for`, `queue up for something`
-- `get carried away`, `get rid of bad luck`, `foster growth`
-- `voice one's displeasure`, `grab the chance`, `have a blast`
-- `dispel ghosts and evils`, `a sense of camaraderie`
-- `potentially fatal allergy`, `a case of mistaken identity`, `superstitious belief`
-- `bask in warmth from friends and families' company`
-- `hit the ceiling`, `go through the roof`
+**Fix:** Aim for **2 full minutes**. Use the 1-minute prep time wisely.
 
-**Typical structure:** Introduction → Story (when / where / who / what happened) → Details (sequence of events) → Opinion (feelings, lessons learned).
+### 1-minute prep trick — note only keywords
+
+```
+Who/What:  [name / object / event]
+When:      [year / season / age]
+Where:     [city / place]
+Why:       [reason / feeling]
+Extra:     [1 vivid detail]
+```
+
+Do **not** write full sentences — you won't have time to read them.
+
+### Universal Part 2 structure
+
+```
+1. INTRODUCTION  (10–15 sec)  → "I'd like to talk about…"
+2. STORY         (60–80 sec)  → Cover ALL bullet points with details
+3. OPINION       (30–40 sec)  → Feelings, lessons, recommendation
+```
+
+### Cue card types & tricks
+
+| Type | Lesson | Structure trick | Must-include detail |
+|------|--------|-----------------|---------------------|
+| **Person** | 3 | Appearance → Personality → Influence on you | One specific memory |
+| **Place** | 4 | Atmosphere → What you do there → Who you go with | Sensory detail (sights, sounds, smells) |
+| **Thing** (physical) | 5 | How you got it → Features → Emotional value | Why it's special to *you* |
+| **Thing** (book/film) | 5 | Plot/theme → Why it resonated → Life lesson | Don't spoil — summarise |
+| **Past event** | 6 | Sequence (first… then… finally…) → Feelings → Lesson | Use past tenses consistently |
+| **Activity** (present) | 7 | How often → Benefits → Will you continue? | `let off steam`, `does wonders for` |
+| **Activity** (future) | 7 | Dream/plan → Who with → Expected impact | *I can hardly contain my excitement* |
+
+### Part 2 opening phrases (pick one)
+
+- *I'm going to describe… which is…*
+- *When it comes to…, the first thing that comes to mind is…*
+- *I'd like to talk about a time when…*
+- *It has been a lifelong dream of mine to…* (future plans)
+
+### Part 2 — keep talking tricks
+
+When you run out of ideas, add:
+
+1. **A comparison** — *It's nothing like… / It's similar to…*
+2. **A contrast** — *In the past I used to…, but now…*
+3. **Other people's view** — *Most of my friends think…*
+4. **Future** — *I hope that in the future…*
+5. **Recommendation** — *I'd definitely recommend it to anyone who…*
+
+### Part 2 collocations by topic
+
+**Places:** `a panoramic view of`, `once in a lifetime experience`, `to die for`, `packed like sardines`
+
+**Things/media:** `from cover to cover`, `catch one's eye`, `worth every penny`, `adapted from`
+
+**Past events:** `have a blast`, `get carried away`, `a sense of camaraderie`, `hit the ceiling`
+
+**Activities:** `let off steam`, `do wonders for`, `get itchy feet`, `hustle and bustle`
+
+### Part 2 timing guide
+
+| Time | What you should be saying |
+|------|---------------------------|
+| 0:00–0:15 | Introduction — name the topic |
+| 0:15–1:15 | Story — bullet points 1–3 |
+| 1:15–1:45 | Story — bullet point 4 + extra detail |
+| 1:45–2:00 | Opinion + wrap-up |
 
 ---
 
-### Lesson 7 — Part 2: Review Events & Activities
+## Part 3 — Tricks for top scores
 
-**Focus:** Present hobbies/activities and future plans/adventures (two common cue card types).
+### The #1 mistake
+Short, personal answers like Part 1. Part 3 wants **society-level thinking**.
 
-**Key vocabulary**
-- budget, recreational, stamina, stretch, motivation, cardiovascular, light-hearted
-- road trip, intrepid, burn calories, core muscles, lush forest, get lean
+**Fix:** Talk about *people in general*, *society*, *the government*, *trends* — not just yourself.
 
-**Key collocations**
-- `hustle and bustle`, `break the journey`, `do the sights`
-- `a low-cost airline`, `get itchy feet`, `boost someone's spirit`
+### ARERC framework (Lesson 8) — use every time
 
-#### Present Activities Strategy
+| Step | Purpose | Example (Should children learn art at school?) |
+|------|---------|------------------------------------------------|
+| **A**nswer | Clear position | *Yes, I strongly believe art should be part of the curriculum.* |
+| **R**eason | Why | *Because it fosters creativity and helps children express emotions they can't put into words.* |
+| **E**xample | Specific case | *For example, in my country, schools that offer music and painting report higher student engagement.* |
+| **R**eason 2 / **C**onsequence | Result or counter-point | *As a result, these students tend to develop better problem-solving skills later in life.* |
 
-| Step | Content |
-|------|---------|
-| **Introduction** | Direct opening; name the activity |
-| **Story** | How you do it, how often, benefits |
-| **Opinion** | Evaluation, why you enjoy it, will you continue |
+### 7 question types — how to answer each (Lesson 8)
 
-**Sample phrases**
-- *I'd like to talk about an activity that I'm into doing in my leisure time.*
-- *The best thing about… is…*
-- *… allows us to express ourselves creatively and emotionally.*
-- *After burying myself in work, I decided to… to let off steam.*
-- *I find that this activity does wonders for…*
+| # | Type | Example question | Trick |
+|---|------|------------------|-------|
+| 1 | **Opinion** | Do you think…? | State yes/no → 2 reasons → example |
+| 2 | **Evaluation** | How important is…? | Scale (very/quite/not very) → justify → compare to something else |
+| 3 | **Future** | Will X change? | Trend + reason + prediction |
+| 4 | **Cause & effect** | Why do people…? | 2–3 reasons ranked: *The main reason… Another factor…* |
+| 5 | **Hypothetical** | What would happen if…? | Condition → consequence → example from another country |
+| 6 | **Compare** | How is X different from Y? | Point A vs Point B → personal or societal example |
+| 7 | **Other people** | What do most people think? | Generalise: *Many people believe… However…* |
 
-#### Future Activities Strategy
+### Part 3 — buying time (when you need to think)
 
-| Step | Content |
-|------|---------|
-| **Introduction** | Name the planned trip/adventure |
-| **Story** | Where/when, who with, what you'd do |
-| **Opinion** | Why it matters, expected impact |
-
-**Sample phrases**
-- *It has been a lifelong dream for me to…*
-- *I'd like to talk about a trip which I'm really looking forward to.*
-- *This trip would be a transformative/precious/valuable experience.*
-- *I can hardly contain my excitement.*
-
----
-
-### Lesson 8 — Speaking Part 3 (1)
-
-**Focus:** Part 3 discussion skills — question types, answer structure, useful phrases.
-
-#### Key vocabulary (example topic: games & cognition)
-- mapping, instinct, variation, well-being, disorder, stimulation, stamina, resilience, simulation, collaboration
-- genetic, innate, spatial, timid, cognitive, applicable, superior, mundane, absent-minded, retentive, immersive
-- impair, derive, strive, instil, cater, inherit
-
-#### Key collocations
-- `innate sense of direction`, `spatial memory`, `cognitive mapping`
-- `memory-impairing illness`, `brain-boosting diet`, `emotional disorder`
-- `derive satisfaction from the journey`, `push one's boundaries`, `step out of one's comfort zone`
-- `keep a cool head`, `trust one's instinct`, `work towards a common objective`
-- `you name it`, `on end`, `the in thing`
-
-#### Part 3 basics
-- Longer, more abstract questions
-- Focus on the **big picture**
-- Two-way discussion, ~4–5 minutes
-- Questions extend the Part 2 topic
-
-#### 7 question types
-1. **Opinion** — Do you think…?
-2. **Evaluation** — How important is…?
-3. **Future** — Will… change in the future?
-4. **Cause and effect** — Why do people…?
-5. **Hypothetical** — What would happen if…?
-6. **Compare and contrast** — How is X different from Y?
-7. **Talking about other people** — What do most people think…?
-
-#### Technique: ARERC
-
-| Step | Purpose |
-|------|---------|
-| **A**nswer | State your position clearly |
-| **R**eason | Explain why |
-| **E**xample(s) | Give specific examples |
-| **C**onsequence | Discuss results or implications |
-
-#### Buying time
-- *That's a very interesting/tough question.*
-- *I've never thought about this before.*
-- *To be honest, it's not an area of my interest.*
-- *I have to admit I don't know much about this topic, but I think…*
+- *That's a very interesting question — I haven't considered that before.*
+- *That's a tough one. Let me think for a second.*
+- *I don't have strong feelings about this, but I'd say…*
 - *As far as I'm concerned…*
+- *From my perspective…*
 
-#### Opinion phrases
+### Part 3 — opinion phrases
 
-| Agree | Disagree | Depends / Not sure |
-|-------|----------|-------------------|
-| Definitely yes / Of course | I don't buy it | It really depends |
-| I couldn't agree more | I'm afraid I disagree | It's hard to say for sure |
-| I suppose so | I'm of a different opinion | It varies from person to person |
+| Agree | Disagree | Balanced |
+|-------|----------|----------|
+| Definitely / Absolutely | I don't buy that argument | It really depends on… |
+| I couldn't agree more | I'm afraid I disagree | It's a double-edged sword |
+| Without a doubt | I'm of a different opinion | There are pros and cons |
+| That's a valid point | I see it differently | It varies from person to person |
 
-#### Talking about other people
-- *There are tons/loads of…, chief among these is…*
-- *The reasons vary, but I guess the most… one is that…*
-- *It varies from individual to individual.*
+### Part 3 — talk about society (not just yourself)
 
----
+- *There are tons of reasons, chief among these is…*
+- *The reasons vary, but I guess the most significant one is…*
+- *It varies from individual to individual, but generally speaking…*
+- *In my country / In many Western countries…*
+- *Governments should / shouldn't…*
 
-### Lesson 9 — Speaking Part 3 (2)
+### Part 3 — Simon's topic ideas (Band 7+ trick)
 
-**Focus:** Continued Part 3 practice — additional question types, vocabulary, and sample discussions.
+Before practice, read the **Positives / Negatives / Opinions** for your topic in [examples/](examples/README.md). In the exam, borrow 1–2 ideas and wrap them in ARERC.
 
-*Note: Mostly image-based in the PDF; pair with Lesson 8 for full Part 3 framework.*
-
----
-
-### Lesson 10 — Review Speaking Part 2 + 3
-
-**Focus:** Combined review of cue card monologues and Part 3 discussion.
-
-**Key vocabulary (partial):** diligence, and review vocabulary from Lessons 3–9.
-
-*Note: Review lesson — use alongside earlier lessons for integrated practice.*
+**Example flow for "Advertising":**
+1. Simon idea: *Advertising manipulates people* → your Reason
+2. Simon idea: *It should be regulated* → your Answer
+3. Your example: a specific ad you remember → your Example
 
 ---
 
-## Extra Material: IELTS Simon — Ideas for IELTS Topics
+## Band 7+ master tricks (all parts)
 
-**Source:** [ielts-simon.com](https://ielts-simon.com) — *Ideas for IELTS Topics* (Band 6.5–9.0)
+### Fluency tricks
 
-A reference book with **24 common IELTS topics**. Each topic includes bullet-point ideas grouped as:
-- **Positives**
-- **Negatives**
-- **Opinions** (often with should/shouldn't arguments)
+1. **Don't chase perfect grammar** — self-correct once, then move on
+2. **Use fillers naturally** — *well, you know, actually, to be honest*
+3. **Paraphrase the question** in your opening — shows vocabulary range
+4. **Extend with "which" clauses** — *I enjoy reading, which helps me unwind after work*
 
-### All 24 topics
+### Vocabulary tricks
 
-| # | Topic | Sub-themes |
-|---|-------|------------|
-| 1 | Advertising | Positives, negatives, opinions, regulation |
-| 2 | Animal Rights | Animal testing, vegetarianism, zoos |
-| 3 | Cities | Urbanisation, negatives of city life, pedestrian areas |
-| 4 | Crime | Police, prevention, prisons, rehabilitation, capital punishment, community service, media |
-| 5 | Education | Benefits, studying abroad, technology, developing countries, higher ed, home-schooling, behaviour, corporal punishment, single-sex, streaming |
-| 6 | Environment | Global warming, human impact, solutions, waste, litter, recycling, nuclear power |
-| 7 | Family | Family size, working parents, divorce, care for elderly |
-| 8 | Gender | Education, work, family roles |
-| 9 | Genetic Engineering | Positives, negatives, GM foods |
-| 10 | Global Issues | Developing countries, immigration, multiculturalism, globalisation |
-| 11 | Government & Society | Public services, censorship, CCTV, smart cards, disabilities |
-| 12 | Guns & Weapons | Ownership, police, arms trade, nuclear weapons, armed forces |
-| 13 | Health | Diet, exercise, government role, healthcare systems, alternative medicine, stress |
-| 14 | Housing & Architecture | State housing, old buildings, modern/green buildings |
-| 15 | Language | English as international language |
-| 16 | Money | Money and society, consumerism |
-| 17 | Personality | Happiness, success, nature vs nurture |
-| 18 | Sport & Leisure | Professional sport, salaries, sport and politics |
-| 19 | TV, Internet, Phones | Positives, negatives, newspapers, books, mobile phones |
-| 20 | Tourism | Positives, environmental impact, future |
-| 21 | Traditional vs Modern | Losing traditional skills, customs |
-| 22 | Transport | Traffic problems/solutions, public transport, road safety |
-| 23 | Water | Clean water, supply, politics, bottled water |
-| 24 | Work | Job satisfaction, work-life balance, self-employment, etc. |
+1. Learn **collocations**, not single words — `make a decision` not `do a decision`
+2. Use **less common synonyms** — `mundane` instead of `boring`; `derive satisfaction` instead of `feel happy`
+3. **Don't overuse idioms** — 1–2 per part is enough; forced idioms lower your score
+4. See full word lists in [vocabulary/22_06_2026.md](vocabulary/22_06_2026.md)
 
-**How to use:** Pick ideas from relevant topics before Part 3 practice. Combine Simon's topic ideas with Fighter's **ARERC** (Part 3) or **EPACT** (Part 1) frameworks.
+### Grammar tricks
+
+1. Mix tenses: present habit + past experience + future plan in one answer
+2. Use **conditionals** in Part 3: *If governments invested more in…, people would…*
+3. Use **relative clauses**: *The person who influenced me most is…*
+4. One complex sentence per answer is enough — don't stack three
+
+### Pronunciation tricks
+
+1. Stress important words: *I **strongly** believe that **education** is **crucial**.*
+2. Fall intonation at the end of statements (sound confident)
+3. Rise slightly at the end of lists (sounds natural)
+4. Record yourself — compare to native speakers on YouTube
 
 ---
 
-## Quick Reference: Answer Frameworks
+## Common mistakes that cost bands
+
+| Mistake | Band impact | Fix |
+|---------|-------------|-----|
+| One-word Part 1 answers | −1 to −2 bands | Always extend to 2–4 sentences |
+| Stopping Part 2 early (< 1 min) | −1 band | Use "keep talking tricks" above |
+| Part 3 answers too personal | −0.5 band | Shift to *people / society / government* |
+| Memorised robotic answers | −1 band or warning | Practice frameworks, not scripts |
+| Flat monotone | −0.5 band | Vary stress and intonation |
+| Wrong tense in Part 2 story | −0.5 band | Past event = past tense throughout |
+| Ignoring cue card bullets | −0.5 band | Check off each bullet mentally |
+
+---
+
+## Exam day checklist
+
+**Before the test**
+- [ ] Sleep well; don't cram new vocabulary the night before
+- [ ] Review 2–3 EPACT + ARERC practice answers out loud
+- [ ] Prepare your Part 1 "safe topics" (job, hometown, hobbies)
+
+**During the test**
+- [ ] Smile and greet the examiner naturally
+- [ ] Part 1: extend every answer
+- [ ] Part 2: use full 1 min prep; aim for 2 min speaking
+- [ ] Part 3: think "society", not "me"
+- [ ] If you don't understand: *Could you repeat the question, please?*
+- [ ] If you make a mistake: correct once, continue — don't apologise repeatedly
+
+**Mindset trick:** The examiner wants you to do well. They're not trying to trick you — they're giving you chances to show your English.
+
+---
+
+## Lesson-by-lesson reference (IELTS Fighter)
+
+### Lesson 1 — Wh-questions (Part 1)
+
+**Focus:** Clear, natural Part 1 answers.
+
+**Vocab themes:** people (haircut, gifted, innate, reminisce), habits (procrastinator, get distracted), feelings (contentment, morale, anticipation, tedious, monotonous)
+
+**Collocations:** `get a haircut`, `hone one's skill`, `stick in one's mind`, `make one's day`, `retail therapy`, `bored to death`
+
+**Trick:** Answer the Wh-word directly in your first sentence, then extend.
+
+---
+
+### Lesson 2 — Technology & Transport (Part 1)
+
+**Focus:** EPACT framework for topic-based Part 1.
+
+**Tech vocab:** notification, platform, binge watching, ubiquitous, impulsive, `keep abreast of the news`, `come in handy`
+
+**Transport vocab:** congestion, carbon footprint, `mass transit`, `a herculean task`
+
+**Trick:** EPACT works best for "Do you…?" and "How often…?" questions.
+
+---
+
+### Lesson 3 — Describe a Person (Part 2)
+
+**Structure:** Intro → Who/when/where → Appearance → Personality → Influence
+
+**Trick:** Split description into **physical** (2–3 features) + **character** (2–3 traits) + **one story** that shows their personality.
+
+**Phrases:** *In terms of appearance… / Personality-wise… / What I admire most about them is…*
+
+---
+
+### Lesson 4 — Describe a Place (Part 2)
+
+**Collocations:** `a panoramic view of`, `once in a lifetime experience`, `delectable cuisines`, `packed like sardines`, `all walks of life`
+
+**Trick:** Use **sensory language** — what you see, hear, smell, feel. Examiners love vivid detail.
+
+**Structure:** Intro → Where/when → Atmosphere & features → What you do there → Recommend?
+
+---
+
+### Lesson 5 — Describe a Thing (Part 2)
+
+**Physical object:** Intro → How you got it → Features → Emotional value → Worth every penny?
+
+**Book/film/website:** Intro → How discovered → Plot/theme → Life lesson → Why it resonates
+
+**Collocations:** `from cover to cover`, `catch one's eye`, `hand something down`, `come across something`
+
+**Trick:** For books/films — don't retell the whole plot. Summarise in 2–3 sentences.
+
+---
+
+### Lesson 6 — Past Events (Part 2)
+
+**Collocations:** `have a blast`, `get carried away`, `grab the chance`, `a sense of camaraderie`, `hit the ceiling`
+
+**Trick:** Use **sequencing words**: *First… / Then… / After that… / Eventually… / Looking back…*
+
+**Tense trick:** Set the scene in past simple; use past continuous for background (*I was sitting at home when…*).
+
+---
+
+### Lesson 7 — Activities: Present & Future (Part 2)
+
+**Present hobby:** How often → How you do it → Benefits → `let off steam`, `does wonders for`
+
+**Future plan:** Dream → Who with → What you'd do → `I can hardly contain my excitement`
+
+**Vocab:** recreational, stamina, cardiovascular, road trip, intrepid, `get itchy feet`, `boost someone's spirit`
+
+---
+
+### Lesson 8 — Part 3 Discussion (1)
+
+**ARERC** + **7 question types** + buying time phrases (see Part 3 section above).
+
+**Vocab (games/cognition example):** cognitive, innate, resilience, immersive, `step out of one's comfort zone`, `push one's boundaries`
+
+---
+
+### Lesson 9 — Part 3 Discussion (2)
+
+**Focus:** More Part 3 practice — pair with Lesson 8 frameworks.
+
+**Trick:** Practice **balancing** answers: *On the one hand… On the other hand… / While some people…, others…*
+
+---
+
+### Lesson 10 — Review Part 2 + 3
+
+**Focus:** Full mock — Part 2 cue card + Part 3 follow-up as one connected story.
+
+**Trick:** In Part 3, refer back to your Part 2 answer: *As I mentioned in my previous answer…* — shows coherence (but don't overdo it).
+
+---
+
+## IELTS Simon — 24 topics for Part 3 ideas
+
+Use [examples/](examples/README.md) for full question lists. Each topic has **Positives / Negatives / Opinions**.
+
+| # | Topic | Key Part 3 angles |
+|---|-------|-------------------|
+| 1 | Advertising | Regulation, children, consumer culture |
+| 2 | Animal Rights | Testing, zoos, vegetarianism |
+| 3 | Cities | Urbanisation, pedestrian zones, vs countryside |
+| 4 | Crime | Prevention, prisons, rehabilitation, death penalty |
+| 5 | Education | Technology, studying abroad, single-sex schools |
+| 6 | Environment | Climate change, recycling, nuclear power |
+| 7 | Family | Working parents, divorce, elderly care |
+| 8 | Gender | Work roles, education, family responsibilities |
+| 9 | Genetic Engineering | GM food, ethics, future |
+| 10 | Global Issues | Immigration, globalisation, developing countries |
+| 11 | Government & Society | Censorship, CCTV, public services |
+| 12 | Guns & Weapons | Ownership, police, nuclear weapons |
+| 13 | Health | Diet, exercise, public healthcare, stress |
+| 14 | Housing & Architecture | Old vs new buildings, green design |
+| 15 | Language | English as global language |
+| 16 | Money | Consumerism, saving vs spending |
+| 17 | Personality | Nature vs nurture, happiness, success |
+| 18 | Sport & Leisure | Pro sport salaries, politics in sport |
+| 19 | TV, Internet, Phones | Social media impact, books vs screens |
+| 20 | Tourism | Economic benefits vs environmental damage |
+| 21 | Traditional vs Modern | Losing customs, technology replacing skills |
+| 22 | Transport | Traffic solutions, public transport funding |
+| 23 | Water | Clean water access, bottled water debate |
+| 24 | Work | Work-life balance, job satisfaction, AI replacing jobs |
+
+**Simon + Fighter combo trick:**
+1. Read Simon's ideas for your topic (5 min)
+2. Practice 3 Part 3 questions using **ARERC** (15 min)
+3. Record yourself — listen for fluency and fillers (5 min)
+
+---
+
+## Quick reference card
 
 ```
-Part 1 (EPACT)     → Example → Popularity → Advantage → Cost → Time
-Part 2 (General)   → Introduction → Story → Opinion
-Part 3 (ARERC)     → Answer → Reason → Example → Consequence
+PART 1 — EPACT
+  Example → Popularity → Advantage → Cost → Time
+  Extend every answer to 2–4 sentences
+
+PART 2 — ISO (Intro → Story → Opinion)
+  1 min prep: keywords only
+  Speak 2 full minutes; cover ALL bullets
+  Past event = past tense
+
+PART 3 — ARERC
+  Answer → Reason → Example → Consequence
+  Think SOCIETY not ME
+  Use Simon ideas + balance phrases
 ```
 
-### Part 2 cue card types covered
+### Frameworks at a glance
 
-| Type | Lesson |
-|------|--------|
-| Describe a **person** | Lesson 3 |
-| Describe a **place** | Lesson 4 |
-| Describe a **thing** (physical / concept) | Lesson 5 |
-| Describe a **past event** | Lesson 6 |
-| Describe an **activity** (present / future) | Lesson 7 |
-
----
-
-## Topic Examples
-
-See [`examples/`](examples/README.md):
-
-- **24 Simon topics** — each file has all matching Part 1, 2, and 3 questions from every PDF
-- **[by-source/](examples/by-source/README.md)** — complete unfiltered dumps per PDF (NgocBach Q1/Q2/Q3 2022–2024, IELTS Fighter lessons)
-
-## Vocabulary
-
-See [`vocabulary/`](vocabulary/README.md) — vocabulary, collocations, and phrases from all **10 IELTS Fighter lessons** + **IELTS Simon** source.
-
-| File | Content |
-|------|---------|
-| `fighter-lesson-01.md` … `fighter-lesson-10.md` | Per-lesson vocab tables (English, CEFR, phonetics, Vietnamese) |
-| `simon-ideas-for-ielts-topics.md` | Key phrases by topic (24 themes) |
-| `all-vocabulary.md` | Combined quick reference |
+| Part | Framework | When |
+|------|-----------|------|
+| 1 | **EPACT** | Habits, preferences, technology, transport |
+| 1 | **Wh-extend** | Direct answer + why + example |
+| 2 | **ISO** | Intro → Story (bullets) → Opinion |
+| 3 | **ARERC** | Every discussion question |
+| 3 | **On the one hand…** | Balanced / "depends" questions |
 
 ---
 
-*Generated from IELTS Fighter (Fighter 5) lesson materials and IELTS Simon topic ideas.*
+## Practice links
+
+- **[24 topic examples](examples/README.md)** — Part 1, 2, 3 questions from all sources
+- **[By-source dumps](examples/by-source/README.md)** — NgocBach Q1/Q2/Q3 2022–2024
+- **[Vocabulary tables](vocabulary/22_06_2026.md)** — 134 words + 120 collocations (CEFR, phonetics, Vietnamese)
+
+---
+
+*Built from IELTS Fighter (Fighter 5) lessons + IELTS Simon topic ideas. Add your own examples as you practice — personal stories score higher than generic ones.*

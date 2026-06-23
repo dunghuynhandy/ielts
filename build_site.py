@@ -11,6 +11,8 @@ from markdown.extensions.fenced_code import FencedCodeExtension
 BASE = os.path.dirname(os.path.abspath(__file__))
 SPEAKING = os.path.join(BASE, "SPEAKING ")
 DOCS = os.path.join(BASE, "docs")
+DOCS_SPEAKING = os.path.join(DOCS, "speaking")
+SITE_ASSETS = os.path.join(BASE, "site", "assets")
 PERSONAL_SITE = os.path.join(os.path.dirname(BASE), "dunghuynhandy.github.io", "ielts")
 
 
@@ -141,7 +143,45 @@ def build_index():
     <a class="card" href="vocabulary/22_06_2026.html"><h3>Vocabulary</h3><p>134 words + 120 collocations with CEFR levels</p></a>
   </div>
 """
-    write(os.path.join(DOCS, "index.html"), page("Home", body, active="home"))
+    write(os.path.join(DOCS_SPEAKING, "index.html"), page("Home", body, active="home"))
+
+
+def build_ielts_landing():
+    body = """
+  <section class="hero">
+    <h1>IELTS Study Hub</h1>
+    <p>Personal notes and practice materials for IELTS preparation.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="speaking/index.html">Speaking</a>
+    </div>
+  </section>
+  <h2 class="section-title">Sections</h2>
+  <div class="card-grid">
+    <a class="card" href="speaking/index.html"><h3>Speaking</h3><p>Lessons, 24 topics, vocabulary — Part 1, 2 & 3</p></a>
+  </div>
+"""
+    landing = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IELTS Study Hub</title>
+  <link rel="stylesheet" href="speaking/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a class="logo" href="index.html">IELTS <span>Study</span></a>
+      <nav><a href="index.html" class="active">Home</a><a href="speaking/index.html">Speaking</a></nav>
+    </div>
+  </header>
+  <main>{body}</main>
+  <footer class="site-footer">
+    <p>Personal study notes · <a href="https://github.com/dunghuynhandy/ielts">GitHub</a></p>
+  </footer>
+</body>
+</html>"""
+    write(os.path.join(DOCS, "index.html"), landing)
 
 
 def build_summary():
@@ -150,7 +190,7 @@ def build_summary():
         content = f.read()
     html = md_to_html(content)
     body = f'<div class="breadcrumb"><a href="index.html">Home</a> / Summary</div><div class="content">{html}</div>'
-    write(os.path.join(DOCS, "summary.html"), page("Summary", body, active="summary"))
+    write(os.path.join(DOCS_SPEAKING, "summary.html"), page("Summary", body, active="summary"))
 
 
 def build_examples_index():
@@ -175,7 +215,7 @@ def build_examples_index():
   <h2 class="section-title">By Source</h2>
   <div class="card-grid">{source_cards}</div>
 """
-    write(os.path.join(DOCS, "examples", "index.html"), page("Examples", body, active="examples", depth=1))
+    write(os.path.join(DOCS_SPEAKING, "examples", "index.html"), page("Examples", body, active="examples", depth=1))
 
 
 def build_example_pages():
@@ -189,7 +229,7 @@ def build_example_pages():
   <div class="breadcrumb"><a href="../index.html">Home</a> / <a href="index.html">Examples</a> / {name}</div>
   <div class="content">{html}</div>
 """
-        write(os.path.join(DOCS, "examples", f"{slug}.html"), page(name, body, active="examples", depth=1))
+        write(os.path.join(DOCS_SPEAKING, "examples", f"{slug}.html"), page(name, body, active="examples", depth=1))
 
     for slug, name in BY_SOURCE:
         md_path = os.path.join(SPEAKING, "examples", "by-source", f"{slug}.md")
@@ -201,7 +241,7 @@ def build_example_pages():
   <div class="breadcrumb"><a href="../../index.html">Home</a> / <a href="../index.html">Examples</a> / {name}</div>
   <div class="content">{html}</div>
 """
-        write(os.path.join(DOCS, "examples", "by-source", f"{slug}.html"), page(name, body, active="examples", depth=2))
+        write(os.path.join(DOCS_SPEAKING, "examples", "by-source", f"{slug}.html"), page(name, body, active="examples", depth=2))
 
 
 def build_vocabulary():
@@ -224,7 +264,7 @@ def build_vocabulary():
   </section>
   <div class="card-grid">{cards}</div>
 """
-    write(os.path.join(DOCS, "vocabulary", "index.html"), page("Vocabulary", body, active="vocabulary", depth=1))
+    write(os.path.join(DOCS_SPEAKING, "vocabulary", "index.html"), page("Vocabulary", body, active="vocabulary", depth=1))
 
     for fn in vocab_files:
         md_path = os.path.join(vocab_dir, fn)
@@ -235,7 +275,7 @@ def build_vocabulary():
   <div class="breadcrumb"><a href="../index.html">Home</a> / <a href="index.html">Vocabulary</a> / {title}</div>
   <div class="content">{html}</div>
 """
-        write(os.path.join(DOCS, "vocabulary", fn.replace(".md", ".html")), page(title, body, active="vocabulary", depth=1))
+        write(os.path.join(DOCS_SPEAKING, "vocabulary", fn.replace(".md", ".html")), page(title, body, active="vocabulary", depth=1))
 
 
 def deploy_personal_site():
@@ -249,19 +289,32 @@ def deploy_personal_site():
     print(f"Deployed to {PERSONAL_SITE}")
 
 
-def main():
-    # Keep assets, rebuild HTML
+def clean_docs():
+    """Remove stale HTML from previous flat layout."""
+    if not os.path.isdir(DOCS):
+        os.makedirs(DOCS)
+        return
     for item in os.listdir(DOCS):
-        p = os.path.join(DOCS, item)
-        if item == "assets":
+        if item in (".nojekyll", "speaking"):
             continue
+        p = os.path.join(DOCS, item)
         if os.path.isfile(p):
             os.remove(p)
         elif os.path.isdir(p):
             shutil.rmtree(p)
 
+
+def main():
+    clean_docs()
+    # Rebuild docs/speaking, keep docs/assets via speaking/assets
+    if os.path.exists(DOCS_SPEAKING):
+        shutil.rmtree(DOCS_SPEAKING)
+
+    shutil.copytree(SITE_ASSETS, os.path.join(DOCS_SPEAKING, "assets"))
+
     open(os.path.join(DOCS, ".nojekyll"), "w").close()
 
+    build_ielts_landing()
     build_index()
     build_summary()
     build_examples_index()
@@ -270,9 +323,10 @@ def main():
 
     deploy_personal_site()
 
-    count = sum(len(files) for _, _, files in os.walk(DOCS))
-    print(f"Built site in {DOCS} ({count} files)")
-    print(f"Live URL: https://dunghuynhandy.github.io/ielts/")
+    count = sum(len(files) for _, _, files in os.walk(DOCS_SPEAKING))
+    print(f"Built speaking site in {DOCS_SPEAKING} ({count} files)")
+    print(f"Live URL: https://dunghuynhandy.github.io/ielts/speaking/")
+    print(f"Summary:  https://dunghuynhandy.github.io/ielts/speaking/summary.html")
 
 
 if __name__ == "__main__":

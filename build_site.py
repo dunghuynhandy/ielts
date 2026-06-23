@@ -82,7 +82,7 @@ def page(title: str, body: str, active: str = "", depth: int = 0) -> str:
     prefix = "../" * depth
     nav = [
         ("home", "Home", f"{prefix}index.html"),
-        ("summary", "Tips & Tricks", f"{prefix}summary.html"),
+        ("summary", "Band 7 Tips", f"{prefix}summary.html"),
         ("examples", "Examples", f"{prefix}examples/index.html"),
         ("vocabulary", "Vocabulary", f"{prefix}vocabulary/index.html"),
     ]
@@ -95,7 +95,7 @@ def page(title: str, body: str, active: str = "", depth: int = 0) -> str:
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{title} — IELTS Speaking Tips</title>
+  <title>{title} — IELTS Speaking Band 7</title>
   <link rel="stylesheet" href="{prefix}assets/style.css">
 </head>
 <body>
@@ -131,7 +131,7 @@ def build_index():
     <div class="hero-actions">
       <a class="btn btn-primary" href="examples/index.html">Browse Topics</a>
       <a class="btn btn-secondary" href="vocabulary/index.html">Vocabulary</a>
-      <a class="btn btn-secondary" href="summary.html">Tips & Tricks</a>
+      <a class="btn btn-secondary" href="summary.html">Band 7 Tips</a>
     </div>
   </section>
   <h2 class="section-title">24 Speaking Topics</h2>
@@ -189,8 +189,8 @@ def build_summary():
     with open(path, encoding="utf-8") as f:
         content = f.read()
     html = md_to_html(content)
-    body = f'<div class="breadcrumb"><a href="index.html">Home</a> / Tips & Tricks</div><div class="content">{html}</div>'
-    write(os.path.join(DOCS_SPEAKING, "summary.html"), page("Tips & Tricks", body, active="summary"))
+    body = f'<div class="breadcrumb"><a href="index.html">Home</a> / Band 7 Tips</div><div class="content">{html}</div>'
+    write(os.path.join(DOCS_SPEAKING, "summary.html"), page("Band 7 Tips", body, active="summary"))
 
 
 def build_examples_index():

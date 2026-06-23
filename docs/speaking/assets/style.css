@@ -249,6 +249,55 @@ main {
   margin: 2rem 0;
 }
 
+.answers-wrap { margin-top: 0; border-top: 3px solid var(--accent); }
+
+.answers-section h2 {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.band-tag {
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: var(--accent-soft);
+  color: var(--accent);
+  padding: 0.2rem 0.6rem;
+  border-radius: 6px;
+}
+
+.answers-section h3 {
+  font-size: 1.05rem;
+  margin: 2rem 0 1rem;
+  color: var(--accent);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.35rem;
+}
+
+.qa-item {
+  margin-bottom: 1.25rem;
+  padding: 1rem 1.15rem;
+  background: var(--bg);
+  border-radius: 8px;
+  border-left: 3px solid var(--accent);
+}
+
+.qa-q {
+  font-weight: 600;
+  margin: 0 0 0.6rem;
+  color: var(--text);
+}
+
+.qa-a {
+  margin: 0 0 0.65rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.qa-a:last-child { margin-bottom: 0; }
+
 .site-footer {
   text-align: center;
   padding: 2rem 1rem;

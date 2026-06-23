@@ -13,6 +13,7 @@ SPEAKING = os.path.join(BASE, "SPEAKING ")
 DOCS = os.path.join(BASE, "docs")
 DOCS_SPEAKING = os.path.join(DOCS, "speaking")
 SITE_ASSETS = os.path.join(BASE, "site", "assets")
+SITE_ANSWERS = os.path.join(BASE, "site", "answers")
 PERSONAL_SITE = os.path.join(os.path.dirname(BASE), "dunghuynhandy.github.io", "ielts")
 
 
@@ -218,6 +219,14 @@ def build_examples_index():
     write(os.path.join(DOCS_SPEAKING, "examples", "index.html"), page("Examples", body, active="examples", depth=1))
 
 
+def load_answers_html(slug: str) -> str:
+    path = os.path.join(SITE_ANSWERS, f"{slug}.html")
+    if not os.path.isfile(path):
+        return ""
+    with open(path, encoding="utf-8") as f:
+        return f.read()
+
+
 def build_example_pages():
     for slug, name in TOPICS:
         md_path = os.path.join(SPEAKING, "examples", f"{slug}.md")
@@ -225,9 +234,13 @@ def build_example_pages():
             continue
         with open(md_path, encoding="utf-8") as f:
             html = md_to_html(f.read(), depth=1)
+        answers = load_answers_html(slug)
+        answers_block = f'<div class="content answers-wrap">{answers}</div>' if answers else ""
+        jump = ' <a class="btn btn-primary" href="#sample-answers" style="margin-left:0.5rem;font-size:0.85rem;padding:0.4rem 0.8rem">Sample answers</a>' if answers else ""
         body = f"""
-  <div class="breadcrumb"><a href="../index.html">Home</a> / <a href="index.html">Examples</a> / {name}</div>
+  <div class="breadcrumb"><a href="../index.html">Home</a> / <a href="index.html">Examples</a> / {name}{jump}</div>
   <div class="content">{html}</div>
+  {answers_block}
 """
         write(os.path.join(DOCS_SPEAKING, "examples", f"{slug}.html"), page(name, body, active="examples", depth=1))
 

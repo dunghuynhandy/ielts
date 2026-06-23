@@ -11,6 +11,7 @@ from markdown.extensions.fenced_code import FencedCodeExtension
 BASE = os.path.dirname(os.path.abspath(__file__))
 SPEAKING = os.path.join(BASE, "SPEAKING ")
 DOCS = os.path.join(BASE, "docs")
+PERSONAL_SITE = os.path.join(os.path.dirname(BASE), "dunghuynhandy.github.io", "ielts")
 
 
 def rel(path: str, depth: int = 0) -> str:
@@ -237,6 +238,17 @@ def build_vocabulary():
         write(os.path.join(DOCS, "vocabulary", fn.replace(".md", ".html")), page(title, body, active="vocabulary", depth=1))
 
 
+def deploy_personal_site():
+    """Copy built site to dunghuynhandy.github.io/ielts/ (already has Pages enabled)."""
+    if not os.path.isdir(os.path.dirname(PERSONAL_SITE)):
+        print(f"Skip personal deploy — {os.path.dirname(PERSONAL_SITE)} not found")
+        return
+    if os.path.exists(PERSONAL_SITE):
+        shutil.rmtree(PERSONAL_SITE)
+    shutil.copytree(DOCS, PERSONAL_SITE)
+    print(f"Deployed to {PERSONAL_SITE}")
+
+
 def main():
     # Keep assets, rebuild HTML
     for item in os.listdir(DOCS):
@@ -255,6 +267,8 @@ def main():
     build_examples_index()
     build_example_pages()
     build_vocabulary()
+
+    deploy_personal_site()
 
     count = sum(len(files) for _, _, files in os.walk(DOCS))
     print(f"Built site in {DOCS} ({count} files)")

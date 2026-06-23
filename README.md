@@ -2,7 +2,16 @@
 
 IELTS Speaking materials: lessons, practice questions, and vocabulary.
 
-**Live site:** [https://dunghuynhandy.github.io/ielts/](https://dunghuynhandy.github.io/ielts/)
+## Live site
+
+**https://dunghuynhandy.github.io/ielts/**
+
+The site is deployed to your personal GitHub Pages repo (`dunghuynhandy.github.io/ielts/`). Running `build_site.py` copies the built HTML there automatically.
+
+## Enable GitHub Pages (ielts repo — optional)
+
+The `ielts` repo also has a `docs/` folder. To use project Pages instead, enable it at:
+https://github.com/dunghuynhandy/ielts/settings/pages
 
 ## Contents
 
